@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utopia.UI", "Utopia.UI\Utopia.UI.csproj", "{73FE5C16-CCE8-4087-94EC-8EBFE581C69C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FE5C16-CCE8-4087-94EC-8EBFE581C69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FE5C16-CCE8-4087-94EC-8EBFE581C69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FE5C16-CCE8-4087-94EC-8EBFE581C69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FE5C16-CCE8-4087-94EC-8EBFE581C69C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C25FAB-0AC6-4D99-BC48-0E7DDC5C74BA}
+	EndGlobalSection
+EndGlobal
